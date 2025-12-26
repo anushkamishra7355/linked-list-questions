@@ -51,7 +51,7 @@ void insertionAtposition(node* &tail,node* &head,int position,int d){
 
     }
     node* temp=head;
-    int count = 1;
+    int count = 1; //POSITION HAI YE 1 MATLAB FIRST POSTIONB PE HAI
     while(count<position - 1){ //middle 
         temp = temp->next;
         count++;
@@ -96,7 +96,7 @@ void deletionAtposition(node* &head,int position){
     }
     
 }
-// printing of the nodes
+// printing of the nodes OR TRAVERSING THE LINKED LIST 
 void printing(node* &head){
     node* temp= head;
     while(temp!=NULL){
