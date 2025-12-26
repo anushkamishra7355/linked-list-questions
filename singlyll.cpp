@@ -142,3 +142,4 @@ int main(){
     return 0;
 
 }
+//singly linked list done!
