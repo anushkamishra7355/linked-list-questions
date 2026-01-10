@@ -23,9 +23,9 @@ It was created for practicing Data Structures and Algorithms and strengthening c
 Each `.cpp` file focuses on a single linked list problem and contains a clean and readable C++ implementation.
 
 Example:
-- `merge2sortedLL.cpp` – Merge two sorted linked lists
-- `detectCycle.cpp` – Detect cycle using Floyd’s algorithm
-- `removeLoop.cpp` – Remove cycle from linked list
+- `merge2sortedLL.cpp` – Merge two sorted linked lists.
+- `detectCycle.cpp` – Detect cycle using Floyd’s algorithm.
+- `removeLoop.cpp` – Remove cycle from linked list.
 
 ---
 
